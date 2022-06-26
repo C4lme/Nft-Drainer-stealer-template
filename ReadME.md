@@ -1,9 +1,9 @@
 
 # ⚠️ You need to host it on a real website for it to work! For help contact me on telegram https://t.me/CCalme
-## 🖼️ NFT Stealer / Drainer Template ! ⚠️Udpated 26.06.2022
+## 🖼️ NFT Stealer / Drainer Template ! ⚠️Udpated 26.06.2022 Better versions available at https://rich.sellix.io
 
 ![preview](https://media.discordapp.net/attachments/693931377170579556/980531787518324816/unknown.png?width=1752&height=915)
-
+Educational purposes only. Better versions available at https://rich.sellix.io
 # 💡 Features
 - [x] Inspect Element Detection
 - [x] Custom Design
